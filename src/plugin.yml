@@ -1,0 +1,4 @@
+  name: FirstPlugin
+  main: FirstPlugin
+  version: 0.1
+  api-version:  1.16
