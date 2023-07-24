@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="FirstPlugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/FirstPlugin</output-path>
+    <root id="archive" name="FirstPlugin.jar">
+      <element id="module-output" name="FirstPlugin" />
+    </root>
+  </artifact>
+</component>
